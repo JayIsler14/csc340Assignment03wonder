@@ -1,0 +1,184 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #e1e8e3;
+}
+
+nav ul {
+    padding: 0;
+    margin: 0 0 0 250px;
+    list-style: none;
+}
+
+nav {
+    width: 100%;
+    overflow: auto;
+    background: black;
+}
+
+nav li {
+    float: left;
+}
+
+nav li a {
+    width: 100px;
+    display: block;
+    padding: 20px 15px;
+    text-decoration: none;
+    font-family: arial;
+    color: white;
+    text-align: center;
+}
+
+nav li a:hover {
+    background: gray;
+    text-transform: uppercase;
+}
+
+.logo img {
+    position: absolute;
+    margin-top: 5px;
+    margin-left: 10px;
+    width: 54px;
+    height: 53px;
+
+}
+
+.header h1 {
+    text-align: center;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-size: 90px;
+}
+
+
+
+button {
+    background-color: #1b5b31; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  .header p {
+    text-align: center;
+    padding-bottom: 150px;
+  }
+
+  .hook h1 {
+    text-align: center;
+  }
+
+  .hook img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  }
+
+  .contact h1 {
+    text-align: center;
+  }
+
+  .contact h2 {
+    text-align: center;
+  }
+
+  .contact h3 {
+    text-align: center;
+  }
+
+  .contact ul {
+ text-align: center;
+  }
+
+  .ny img {
+    width: 30%;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 30px;
+   
+  }
+
+  .photoshead h1 {
+    text-align: center;
+    font-size: 60px;
+    padding: 40px;
+  }
+
+  .ny p {
+    text-align: center;
+  }
+
+  .paris {
+    background-color: black;
+  }
+
+  .paris img {
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+  }
+
+  .paris p {
+   color: white;
+   text-align: center;
+  }
+
+  .china img {
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+  }
+
+  .china p {
+    text-align: center;
+  }
+
+  footer {
+    background-color: black;
+    height: 200px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 30px;
+  }
+
+  .aboutheader {
+    font-size: 35px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+  }
+
+  .why {
+    background-color: black;
+  }
+  .why img {
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+  }
+
+  .story p {
+    text-align: center;
+    inline-size: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+  }
